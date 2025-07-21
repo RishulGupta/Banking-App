@@ -3,7 +3,10 @@
 This is a modern and user-friendly **banking application** built using **Kotlin** and **XML** for Android. It provides a sleek UI and essential banking features such as balance tracking, money transfers, spending analytics, and transaction history — all packed into an intuitive and responsive design.
 
 ---
-
+<div align="centre">
+  <
+  <img src="https://github.com/RishulGupta/Banking-App/blob/6759a6e97269e77bf766ddbd909b0687e4b6c3d8/WhatsApp%20Image%202025-07-21%20at%2013.55.07_ea59a373.jpg">
+</div>
 ## 🛠 Tech Stack
 
 - **Language:** Kotlin
