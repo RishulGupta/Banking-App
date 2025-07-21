@@ -6,7 +6,8 @@ This is a modern and user-friendly **banking application** built using **Kotlin*
 <div align="centre">
   <
   <img src="https://github.com/RishulGupta/Banking-App/blob/6759a6e97269e77bf766ddbd909b0687e4b6c3d8/WhatsApp%20Image%202025-07-21%20at%2013.55.07_ea59a373.jpg">
-</div>
+<img src="https://github.com/RishulGupta/Banking-App/blob/bdaf96680d6417003471e7f873db981d8a81906b/WhatsApp%20Image%202025-07-21%20at%2013.55.08_c5467dc6.jpg">
+  </div>
 ## 🛠 Tech Stack
 
 - **Language:** Kotlin
